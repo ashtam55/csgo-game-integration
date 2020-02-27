@@ -31,6 +31,10 @@ For official steam API's refer [Here](https://developer.valvesoftware.com/wiki/C
 * You should then be able to connect in a web browser by going to `http://localhost:2626`. Start up your game and connect to a match and data should begin streaming
 * Linux and Mac setup is basically identical, just switch out CMD for Terminal
 
+### TO DO:
+* Support with IoT devices.
+* Cloud connect.
+
 
 
 
